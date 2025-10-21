@@ -420,5 +420,3 @@ If you find Srlinks useful, please consider giving it a star on GitHub!
 [Website](https://srlinks.live) • [Documentation](./docs) • [API](./docs/api.md) • [GitHub](https://github.com/sirigireddyreddaiahh/srlinks)
 
 </div>
-#   S r l i n k s . l i v e  
- 
