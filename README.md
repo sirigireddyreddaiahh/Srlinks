@@ -398,9 +398,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 📧 Contact & Support
 
 - **Website**: [srlinks.live](https://srlinks.live)
-- **Email**: [reddaiahsirigireddy@gmail.com](mailto:reddaiahsirigireddy@gmail.com)
+- **Email**: [sirigireddyreddaiah@gmail.com](mailto:sirigireddyreddaiah@gmail.com)
 - **GitHub Issues**: [Report bugs or request features](https://github.com/sirigireddyreddaiahh/srlinks/issues)
-- **Telegram**: [Join our community](https://urlsclickearn.xyz/telegram)
+- **Telegram**: [Join our community](https://srlinks.live/telegram)
 - **Blog**: [Latest updates](https://srlinks.live/blog)
 
 ---
