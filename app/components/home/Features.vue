@@ -80,4 +80,3 @@ const features = [
     
     <div class="h-1 mt-16 bg-gradient-to-r from-purple-500 via-cyan-500 to-pink-500 opacity-75"></div>
   </main>
-</template>
